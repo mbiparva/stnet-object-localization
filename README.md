@@ -32,7 +32,7 @@ If you find StNet for Object Localization useful in your research, please consid
 5. [Preparation](#preparation)
 6. [Demo: Localization](#demo-weakly-supervised-object-localization)
 7. [Demo: Visualization](#demo-class-hypothesis-visualization)
-8. [Extension](#future-work)
+8. [Future Work](#future-work)
 
 ## Introduction
 
